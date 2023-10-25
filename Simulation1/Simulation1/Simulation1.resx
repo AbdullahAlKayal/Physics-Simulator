@@ -1,0 +1,102 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="Weight1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAAcAAACsCAYAAAC3ibb+AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAS
+        cQAAEnEB89x6jgAAAFhJREFUWEftzdEJgDAMANGOZddy8mxQr0JECkKhP6L3cdDmBVIiomX7Vq93TySR
+        RBJJJJFEEkkkkUQSSSSRRPoS9sFTC5i3xs6bf8JxIWfiNObC/f8yjHYAotIM5Wb7H/UAAAAASUVORK5C
+        YII=
+</value>
+  </data>
+  <data name="Reaction.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAAcAAACsCAYAAAC3ibb+AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAS
+        cQAAEnEB89x6jgAAAFZJREFUWEftzrENgDAMAEHGCmsxuTcI78LIBQ0FigRfvOT4XGSLiFkdY7/m7HeY
+        UImPsEM/EF/EO6iWYP6qykV/iySSSCKJJJJIIokkkkgiiSTSZzDmCRis1uqPay5/AAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="Weight2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAASUAAAAHCAYAAABOdFv+AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAS
+        cQAAEnEB89x6jgAAAGRJREFUaEPt1rENwCAMBVHGStbK5N6ADMCJIkiEL13xOoTdcKJVVZeU6bnuAZ1L
+        YpSkYBSlFTRjN6MkBaOwnIb2nml0iST9xZ+SFIwe9Wlo7xmjJAWjCKygGbsZJSnYqWH5rvoLtx1Sjhu6
+        3kwAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="Friction.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAASAAAAAHCAYAAACoXZC6AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAS
+        cQAAEnEB89x6jgAAAFRJREFUaEPt2bENgDAMAMGMBWsxuTcIogVXgOLCV1yTIuleljMiYq50bHt6DvTz
+        KUBXTN7I7gL6eQQoC8bf7m8CPY0sEAArmICAMnZAQBm/YECRmCfPPjsGDn2ArwAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="lblDescription.Text" xml:space="preserve">
+    <value>Description:
+
+This simulation represents Newton’s second law, which states that the force is the rate of change of the momentum over time, which could be formulated, when 
+the mass is constant, by the statement that the force is proportional to the acceleration. In this simulation, the force applied on the lorry is given by the weight 
+of the hanging mass, and it is observed that the lorry is more accelerated when the weight of the hanging mass is increased.
+</value>
+  </data>
+  <metadata name="Timer.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+</root>

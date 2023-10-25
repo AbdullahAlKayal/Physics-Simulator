@@ -1,0 +1,22 @@
+C:\Users\fisal\Documents\Simulation1\Simulation1\obj\Debug\net6.0-windows\Computer Science Project3.vbproj.AssemblyReference.cache
+C:\Users\fisal\Documents\Simulation1\Simulation1\obj\Debug\net6.0-windows\Computer Science Project3.vbproj.GenerateResource.cache
+C:\Users\fisal\Documents\Simulation1\Simulation1\obj\Debug\net6.0-windows\Computer Science Project3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fisal\Documents\Simulation1\Simulation1\obj\Debug\net6.0-windows\Computer Science Project3.AssemblyInfoInputs.cache
+C:\Users\fisal\Documents\Simulation1\Simulation1\obj\Debug\net6.0-windows\Computer Science Project3.AssemblyInfo.vb
+C:\Users\fisal\Documents\Simulation1\Simulation1\obj\Debug\net6.0-windows\Computer Science Project3.vbproj.CoreCompileInputs.cache
+C:\Users\fisal\Documents\Simulation1\Simulation1\bin\Debug\net6.0-windows\Computer Science Project3.exe
+C:\Users\fisal\Documents\Simulation1\Simulation1\bin\Debug\net6.0-windows\Computer Science Project3.deps.json
+C:\Users\fisal\Documents\Simulation1\Simulation1\bin\Debug\net6.0-windows\Computer Science Project3.runtimeconfig.json
+C:\Users\fisal\Documents\Simulation1\Simulation1\bin\Debug\net6.0-windows\Computer Science Project3.dll
+C:\Users\fisal\Documents\Simulation1\Simulation1\bin\Debug\net6.0-windows\Computer Science Project3.pdb
+C:\Users\fisal\Documents\Simulation1\Simulation1\obj\Debug\net6.0-windows\Computer Science Project3.dll
+C:\Users\fisal\Documents\Simulation1\Simulation1\obj\Debug\net6.0-windows\ref\Computer Science Project3.dll
+C:\Users\fisal\Documents\Simulation1\Simulation1\obj\Debug\net6.0-windows\Computer Science Project3.pdb
+C:\Users\fisal\Documents\Simulation1\Simulation1\obj\Debug\net6.0-windows\Computer Science Project3.genruntimeconfig.cache
+C:\Users\fisal\Documents\Simulation1\Simulation1\obj\Debug\net6.0-windows\Computer_Science_Project3.Simulation1.resources
+C:\Users\fisal\Documents\Simulation1\Simulation1\obj\Debug\net6.0-windows\Computer_Science_Project3.Resources.resources
+C:\Users\fisal\Documents\Simulation1\Simulation1\obj\Debug\net6.0-windows\Computer_Science_Project3.frmMain.resources
+C:\Users\fisal\Documents\Simulation1\Simulation1\obj\Debug\net6.0-windows\Computer_Science_Project3.Simulation2.resources
+C:\Users\fisal\Documents\Simulation1\Simulation1\obj\Debug\net6.0-windows\Computer_Science_Project3.Simulation3.resources
+C:\Users\fisal\Documents\Simulation1\Simulation1\obj\Debug\net6.0-windows\Computer_Science_Project3.Simulation4.resources
+C:\Users\fisal\Documents\Simulation1\Simulation1\obj\Debug\net6.0-windows\refint\Computer Science Project3.dll

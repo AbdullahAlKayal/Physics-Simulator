@@ -1,0 +1,17 @@
+C:\Users\fisal\Documents\Simulation1\Simulation1\bin\Debug\net6.0-windows\Simulation1.exe
+C:\Users\fisal\Documents\Simulation1\Simulation1\bin\Debug\net6.0-windows\Simulation1.deps.json
+C:\Users\fisal\Documents\Simulation1\Simulation1\bin\Debug\net6.0-windows\Simulation1.runtimeconfig.json
+C:\Users\fisal\Documents\Simulation1\Simulation1\bin\Debug\net6.0-windows\Simulation1.dll
+C:\Users\fisal\Documents\Simulation1\Simulation1\bin\Debug\net6.0-windows\ref\Simulation1.dll
+C:\Users\fisal\Documents\Simulation1\Simulation1\bin\Debug\net6.0-windows\Simulation1.pdb
+C:\Users\fisal\Documents\Simulation1\Simulation1\obj\Debug\net6.0-windows\Simulation1.vbproj.AssemblyReference.cache
+C:\Users\fisal\Documents\Simulation1\Simulation1\obj\Debug\net6.0-windows\Simulation1.Form1.resources
+C:\Users\fisal\Documents\Simulation1\Simulation1\obj\Debug\net6.0-windows\Simulation1.vbproj.GenerateResource.cache
+C:\Users\fisal\Documents\Simulation1\Simulation1\obj\Debug\net6.0-windows\Simulation1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fisal\Documents\Simulation1\Simulation1\obj\Debug\net6.0-windows\Simulation1.AssemblyInfoInputs.cache
+C:\Users\fisal\Documents\Simulation1\Simulation1\obj\Debug\net6.0-windows\Simulation1.AssemblyInfo.vb
+C:\Users\fisal\Documents\Simulation1\Simulation1\obj\Debug\net6.0-windows\Simulation1.vbproj.CoreCompileInputs.cache
+C:\Users\fisal\Documents\Simulation1\Simulation1\obj\Debug\net6.0-windows\Simulation1.dll
+C:\Users\fisal\Documents\Simulation1\Simulation1\obj\Debug\net6.0-windows\ref\Simulation1.dll
+C:\Users\fisal\Documents\Simulation1\Simulation1\obj\Debug\net6.0-windows\Simulation1.pdb
+C:\Users\fisal\Documents\Simulation1\Simulation1\obj\Debug\net6.0-windows\Simulation1.genruntimeconfig.cache
